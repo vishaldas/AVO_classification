@@ -1,6 +1,7 @@
 # AVO_classification
 
 CNN based AVO classification 
+Paper reference: Das, V. and T. Mukerji, 2019, Traditional Feature Based vs Direct Machine Learning Based AVO Classification: 81st EAGE Conference and Exhibition 2019.
 
 Main code is:
 
