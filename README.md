@@ -1,4 +1,4 @@
-# AVO_classification
+# AVO classification
 
 CNN based AVO classification 
 
